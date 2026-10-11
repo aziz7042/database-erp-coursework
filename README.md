@@ -1,6 +1,6 @@
 # Database & ERP Coursework
 
-A curated university sample project covering relational database work and ERP/material-consumption analysis.
+A university sample project covering relational database work and ERP/material-consumption analysis.
 
 ## Repository map
 
@@ -19,9 +19,9 @@ erp-analysis/  synthetic material movements and calculated results
 
 ## Important naming note
 
-The original course folders use the abbreviation `AWS`. In this context it refers to the university course, **not Amazon Web Services**. This repository deliberately avoids presenting the work as AWS cloud experience.
+The original course folders use the abbreviation `AWS`. Here it refers to the university course, **not Amazon Web Services**.
 
-## Repository scope
+## About this version
 
 The repository contains selected implementation results—not assignment sheets, instructor material, local databases or a general answer key. Files were renamed from their original course-delivery names so the collection reads as a self-contained technical sample.
 
